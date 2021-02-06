@@ -321,7 +321,11 @@ namespace AttCon
             allData.Reverse();
             foreach (string data in allData)
             {
-                if ("1dB".Equals(data))
+                if ("0dB".Equals(data))
+                {
+                    data_tx = "0";
+                }
+                else if ("1dB".Equals(data))
                 {
                     data_tx = "1";
                 }
@@ -345,7 +349,7 @@ namespace AttCon
                 {
                     data_tx = "6";
                 }
-                str_tx += "#".Equals(str_tx) ? data_tx : "," + data_tx;
+                str_tx += data_tx;
             }
             str_tx += "$\r\n";
             richTextBox1_toString(Function.paramvalue.tx,str_tx);
@@ -371,6 +375,36 @@ namespace AttCon
         private void Form1_SizeChanged(object sender, EventArgs e)
         {
             
+        }
+
+        private void radioButton12_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton11_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton10_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton9_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton8_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton7_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

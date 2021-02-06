@@ -18,3 +18,13 @@ D:\Work\AttCon\AttCon\obj\Debug\AttCon.csproj.GenerateResource.cache
 D:\Work\AttCon\AttCon\obj\Debug\AttCon.csproj.CoreCompileInputs.cache
 D:\Work\AttCon\AttCon\obj\Debug\AttCon.exe
 D:\Work\AttCon\AttCon\obj\Debug\AttCon.pdb
+C:\Users\Mumu\Source\Repos\lin1248\hmc470_control\AttCon\AttCon\bin\Debug\AttCon.exe.config
+C:\Users\Mumu\Source\Repos\lin1248\hmc470_control\AttCon\AttCon\bin\Debug\AttCon.exe
+C:\Users\Mumu\Source\Repos\lin1248\hmc470_control\AttCon\AttCon\bin\Debug\AttCon.pdb
+C:\Users\Mumu\Source\Repos\lin1248\hmc470_control\AttCon\AttCon\obj\Debug\AttCon.csproj.AssemblyReference.cache
+C:\Users\Mumu\Source\Repos\lin1248\hmc470_control\AttCon\AttCon\obj\Debug\AttCon.Form1.resources
+C:\Users\Mumu\Source\Repos\lin1248\hmc470_control\AttCon\AttCon\obj\Debug\AttCon.Properties.Resources.resources
+C:\Users\Mumu\Source\Repos\lin1248\hmc470_control\AttCon\AttCon\obj\Debug\AttCon.csproj.GenerateResource.cache
+C:\Users\Mumu\Source\Repos\lin1248\hmc470_control\AttCon\AttCon\obj\Debug\AttCon.csproj.CoreCompileInputs.cache
+C:\Users\Mumu\Source\Repos\lin1248\hmc470_control\AttCon\AttCon\obj\Debug\AttCon.exe
+C:\Users\Mumu\Source\Repos\lin1248\hmc470_control\AttCon\AttCon\obj\Debug\AttCon.pdb
